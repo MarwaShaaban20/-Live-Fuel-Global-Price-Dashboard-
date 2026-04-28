@@ -82,7 +82,10 @@ This project delivers a dynamic analysis of global fuel prices (Petrol, Diesel, 
 <img width="1175" height="852" alt="Screenshot (952)" src="https://github.com/user-attachments/assets/9a3b7297-bf30-451d-815b-42b80e17179d" />
 <img width="1176" height="857" alt="Screenshot (953)" src="https://github.com/user-attachments/assets/a65e4ff1-a2b2-46b0-ac3a-6b70cf2beaa0" />
 
+----------------
 
+<img width="1066" height="920" alt="WhatsApp Image 2026-04-23 at 6 28 18 PM" src="https://github.com/user-attachments/assets/70b8258b-d6a2-4034-b3e9-04fbf784c9a5" />
+<img width="1110" height="341" alt="WhatsApp Image 2026-04-23 at 6 27 28 PM" src="https://github.com/user-attachments/assets/b3233ad2-890b-4968-9a41-608221a477ec" />
 
 
 
