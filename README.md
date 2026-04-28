@@ -1,4 +1,3 @@
-تمام، ده نسخة أقوى ومعدّلة + فيها **تحليل تأثير الأحداث العالمية على الأسعار** + شكل بروفيشنال (Badges + Sections مرتبة) 👇
 
 
 
@@ -78,7 +77,6 @@ This project delivers a dynamic analysis of global fuel prices (Petrol, Diesel, 
 
 ## Screenshots
 
-*(ضيفي هنا صور الداشبورد اللي بعتيها عشان يبان بروفيشنال أكتر)*
 
 ---
 
@@ -94,8 +92,3 @@ This project delivers a dynamic analysis of global fuel prices (Petrol, Diesel, 
 ##  Key Highlight
 
 > This project bridges the gap between **historical data analysis** and **real-time insights**, while also connecting fuel price movements to **global economic and geopolitical changes**.
-
-
-* 🎯 أو أزبطه targeting شغل Data Analyst / Portfolio
-
-قوليلي وهنظبطه على مستوى CV 🔥
